@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+Hts9xUQdI5L9XgSv0I8R0cuYkLftd0zPNpqO7hXlJbP+LN8KilB7n0h+1fYRZ+/J/CecdWUJ9fjYx7NSHEpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akopczyn\\Desktop\\git\\cdv-cloud-computing\\2022-03-17\\lab_2.Rest\\lab_2.Rest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akopczyn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
