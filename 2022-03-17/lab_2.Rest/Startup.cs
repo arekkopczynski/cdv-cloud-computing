@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using lab_2.Rest.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace lab_2.Rest
 {
@@ -27,10 +29,12 @@ namespace lab_2.Rest
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
-            services.AddSwaggerGen(c =>
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            string connectionString = Configuration.GetConnectionString("AzureDb");
+            services.AddDbContext<AzureDbEntities>(options =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "lab_2.Rest", Version = "v1" });
+                options.UseSqlServer(connectionString);
+
             });
         }
 
