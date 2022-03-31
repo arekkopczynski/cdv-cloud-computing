@@ -58,3 +58,7 @@ C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\obj\Debu
 C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\obj\Debug\net5.0\ref\lab_2.Rest.dll
 C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\obj\Debug\net5.0\lab_2.Rest.pdb
 C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\obj\Debug\net5.0\lab_2.Rest.genruntimeconfig.cache
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\bin\Debug\net5.0\publish\lab_2.Rest.deps.json
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-03-17\lab_2.Rest\bin\Debug\net5.0\publish\lab_2.Rest.runtimeconfig.json
