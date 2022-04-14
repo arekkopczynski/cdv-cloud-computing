@@ -18,6 +18,15 @@ class PeopleDbContext {
         return result.recordset;
     }
 
+    async getSpecyficPeople(query) {
+        this.log("getPeople function - run")
+        const connection = await new sql.ConnectionPool(this.config).connect();
+        const request = new sql.Request(connection);
+        const result = await request.query(`select * from People WHERE PersonId = ${query.id}`);
+        this.log("getPeople function - done")
+        return result.recordset;
+    }
+
     async setPeople(query){
         this.log("setPeople function - run")
         const connection = await new sql.ConnectionPool(this.config).connect();
