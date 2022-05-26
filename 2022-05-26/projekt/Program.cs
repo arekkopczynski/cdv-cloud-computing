@@ -36,7 +36,6 @@ namespace projekt
 
             await task;
 
-
             void ReadData(CancellationToken cancellationToken)
             {
                 Console.WriteLine("Task run.");

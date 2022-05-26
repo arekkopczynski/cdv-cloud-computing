@@ -184,3 +184,14 @@ C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\lib
 C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\libhostpolicy.so
 C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\libmscordaccore.so
 C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\libmscordbi.so
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\Iot.Device.Bindings.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\Microsoft.Win32.SystemEvents.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\SixLabors.ImageSharp.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\System.CodeDom.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\System.Device.Gpio.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\System.Drawing.Common.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\System.IO.Ports.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\System.Management.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\UnitsNet.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\arm\libSystem.IO.Ports.Native.so
