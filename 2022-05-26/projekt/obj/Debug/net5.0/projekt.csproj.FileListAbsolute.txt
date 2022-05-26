@@ -1,0 +1,16 @@
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\projekt.exe
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\projekt.deps.json
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\projekt.runtimeconfig.json
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\projekt.runtimeconfig.dev.json
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\projekt.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\ref\projekt.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\bin\Debug\net5.0\projekt.pdb
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.csproj.AssemblyReference.cache
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.AssemblyInfoInputs.cache
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.AssemblyInfo.cs
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.csproj.CoreCompileInputs.cache
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\ref\projekt.dll
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.pdb
+C:\Users\akopczyn\Desktop\git\cdv-cloud-computing\2022-05-26\projekt\obj\Debug\net5.0\projekt.genruntimeconfig.cache

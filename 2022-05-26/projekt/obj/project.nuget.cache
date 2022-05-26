@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qgsyKk3+VfPduZZ41gzxim0A2GTeh+3Ly9t6MKOhljXJNp3OJpANVY9KMYYfVRJvx3iPQ2wkWLWNLDgknyuGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akopczyn\\Desktop\\git\\cdv-cloud-computing\\2022-05-26\\projekt\\projekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akopczyn\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\5.0.11\\microsoft.netcore.app.runtime.linux-arm.5.0.11.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\5.0.11\\microsoft.aspnetcore.app.runtime.linux-arm.5.0.11.nupkg.sha512",
+    "C:\\Users\\akopczyn\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\5.0.11\\microsoft.netcore.app.host.linux-arm.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
